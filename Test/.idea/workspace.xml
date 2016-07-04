@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1ff4ba1-f1e3-49d7-b1ea-3e060563a6a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Text.txt" afterPath="$PROJECT_DIR$/src/Text.txt" />
-    </list>
+    <list default="true" id="b1ff4ba1-f1e3-49d7-b1ea-3e060563a6a6" name="Default" comment="" />
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,7 +55,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="71" />
+    <option name="y" value="202" />
     <option name="width" value="1440" />
     <option name="height" value="802" />
   </component>
@@ -618,15 +616,15 @@
       <workItem from="1467667488194" duration="56000" />
       <workItem from="1467667643922" duration="1309000" />
       <workItem from="1467669843893" duration="16000" />
-      <workItem from="1467670112347" duration="21000" />
+      <workItem from="1467670112347" duration="161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1402000" />
+    <option name="totallyTimeSpent" value="1542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="802" extended-state="6" />
+    <frame x="71" y="202" width="1440" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
